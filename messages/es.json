@@ -1,0 +1,730 @@
+{
+  "nav": {
+    "dashboard": "Panel de Control",
+    "transactions": "Transacciones",
+    "budgets": "Presupuestos",
+    "analytics": "Análisis"
+  },
+  "footer": {
+    "navigation": "Navegación",
+    "info": "Información",
+    "privacy": "Tus datos permanecen en tu dispositivo",
+    "storage": "Impulsado por localStorage",
+    "currency": "Moneda: USD ($)",
+    "copyright": "© FinTrack. Todos los derechos reservados.",
+    "made-with": "Hecho con",
+    "for-finance": "para finanzas más inteligentes"
+  },
+  "alerts": {
+    "body": "Te estás acercando al límite de presupuesto para esta categoría.",
+    "cta": "Revisar Presupuesto",
+    "eyebrow": "Alerta de Presupuesto",
+    "heading": "Estás cerca de tu límite"
+  },
+  "analytics": {
+    "donut": {
+      "subtitle": "Gastos por categoría este mes",
+      "title": "Desglose de Gastos"
+    },
+    "eyebrow": "Resumen",
+    "heading": "Tu Resumen Financiero",
+    "insights": {
+      "biggestExpense": "Mayor Gasto",
+      "heading": "Información Clave",
+      "momChange": "Cambio Mes a Mes",
+      "topCategory": "Categoría Principal",
+      "totalThisMonth": "Total Este Mes"
+    },
+    "recent": {
+      "subtitle": "Últimas transacciones",
+      "title": "Actividad Reciente"
+    },
+    "subheading": "Controla y gestiona tus gastos diarios",
+    "table": {
+      "subtitle": "Todas las transacciones este mes",
+      "title": "Historial de Transacciones"
+    },
+    "trend": {
+      "barToggle": "Gráfico de Barras",
+      "lineToggle": "Gráfico de Líneas",
+      "subtitle": "Últimos 30 días",
+      "title": "Tendencia de Gastos"
+    }
+  },
+  "breakdown": {
+    "bar_note": "Pasa el cursor para ver detalles",
+    "bar_title": "Gastos por Categoría",
+    "eyebrow": "Detalles",
+    "heading": "Dónde Va Tu Dinero",
+    "pie_title": "Distribución de Categorías",
+    "subhead": "Comprende tus patrones de gasto"
+  },
+  "budgets": {
+    "addButton": "Agregar Presupuesto",
+    "delete": {
+      "body": "Este presupuesto se eliminará permanentemente.",
+      "cancel": "Cancelar",
+      "confirm": "Eliminar",
+      "title": "¿Eliminar Presupuesto?"
+    },
+    "empty": {
+      "body": "Crea tu primer presupuesto para comenzar a rastrear límites de gasto.",
+      "title": "Sin Presupuestos Aún"
+    },
+    "filter": {
+      "all": "Todos",
+      "onTrack": "En Camino",
+      "over": "Excedido",
+      "warning": "Advertencia"
+    },
+    "form": {
+      "cancel": "Cancelar",
+      "close": "Cerrar",
+      "errorCategory": "Por favor selecciona una categoría",
+      "errorLimit": "El límite debe ser mayor que cero",
+      "errorSpent": "El monto no puede exceder el límite",
+      "errorThreshold": "El umbral debe ser menor que el límite",
+      "labelCategory": "Categoría",
+      "labelLimit": "Límite Mensual",
+      "labelNote": "Nota opcional",
+      "labelRollover": "Transferir fondos no utilizados",
+      "labelSpent": "Ya Gastado",
+      "labelThreshold": "Umbral de alerta",
+      "notePlaceholder": "Agregar notas (opcional)",
+      "saveEdit": "Actualizar presupuesto",
+      "saveNew": "Crear presupuesto",
+      "titleEdit": "Editar presupuesto",
+      "titleNew": "Nuevo presupuesto"
+    },
+    "heading": "Presupuestos",
+    "subheading": "Establece límites de gasto y rastra el progreso",
+    "summary": {
+      "allOnTrack": "Todos los presupuestos en camino",
+      "categories": "Categorías",
+      "over": "Excedido",
+      "remaining": "Restante",
+      "totalBudget": "Presupuesto total",
+      "totalSpent": "Total gastado",
+      "utilized": "Utilizado",
+      "warning": "Has excedido el presupuesto en algunas categorías"
+    }
+  },
+  "cta": {
+    "body": "Comienza a rastrear tu gasto y toma control de tus finanzas hoy.",
+    "btn_primary": "Comenzar",
+    "btn_secondary": "Más información",
+    "heading": "¿Listo para gestionar tu dinero?"
+  },
+  "dashboard": {
+    "addExpense": "Agregar gasto",
+    "budgets": {
+      "of": "De",
+      "onTrack": "En camino",
+      "overall": "Presupuesto general",
+      "sub": "Monitorea el gasto en categorías",
+      "title": "Resumen de presupuesto",
+      "used": "Usado"
+    },
+    "chart": {
+      "last6": "Últimos 6 meses",
+      "sub": "Visualiza tus tendencias de gasto",
+      "title": "Historial de gastos"
+    },
+    "currentPeriod": "Período actual",
+    "greetingAfternoon": "Buenas tardes",
+    "greetingEvening": "Buenas noches",
+    "greetingMorning": "Buenos días",
+    "insights": {
+      "saving": "Estás ahorrando bien",
+      "savingText": "Mantén tus buenos hábitos de gasto",
+      "tip": "Consejo inteligente",
+      "tipText": "Revisa las suscripciones mensualmente para reducir costos innecesarios",
+      "title": "Información",
+      "watch": "Vigila tu gasto",
+      "watchText": "Estás gastando más que el mes pasado"
+    },
+    "pie": {
+      "sub": "Ve a dónde va tu dinero",
+      "title": "Gasto por categoría"
+    },
+    "recent": {
+      "sub": "Tus transacciones recientes",
+      "title": "Gastos recientes",
+      "total5": "Últimas 5 transacciones"
+    },
+    "stats": {
+      "avgPerDay": "Promedio por día",
+      "avgPerDaySub": "Este período",
+      "low": "Bajo",
+      "ok": "En camino",
+      "remaining": "Presupuesto restante",
+      "remainingSub": "Disponible para gastar este mes",
+      "thisMonth": "Este mes",
+      "totalSpent": "Total gastado",
+      "totalSpentSub": "En todas las categorías",
+      "transactions": "Transacciones recientes",
+      "transactionsSub": "Tu actividad más reciente"
+    },
+    "subtitle": "Controla gastos, establece presupuestos, mantente en control",
+    "title": "Panel de Gastos"
+  },
+  "features": {
+    "eyebrow": "Herramientas Inteligentes",
+    "heading": "Gestiona tu Dinero sin Esfuerzo",
+    "subhead": "Información en tiempo real y seguimiento automatizado mantienen tus finanzas organizadas"
+  },
+  "hero": {
+    "badge": "Nuevo",
+    "card": {
+      "month": "Este Mes",
+      "recent": "Reciente",
+      "remaining": "Restante",
+      "view_all": "Ver Todo"
+    },
+    "cta_primary": "Comenzar a Rastrear",
+    "cta_secondary": "Más Información",
+    "headline": "Toma Control de tus Gastos",
+    "subhead": "Ve a dónde va tu dinero y toma decisiones financieras más inteligentes",
+    "welcome_back": "Bienvenido de vuelta"
+  },
+  "stats": {
+    "alerts": "Alertas",
+    "budget_alerts": "Alertas de Presupuesto",
+    "budget_left": "Presupuesto Restante",
+    "remaining": "Restante",
+    "this_month": "Este Mes",
+    "total_spent": "Total Gastado",
+    "transactions": "Transacciones"
+  },
+  "quick-stats": [
+    {
+      "label": "Total Spent",
+      "value": "$1,847.50",
+      "description": "Amount debited across all categories so far this month, up 8% from last month"
+    },
+    {
+      "label": "Remaining Budget",
+      "value": "$1,152.50",
+      "description": "What's left of your $3,000 monthly budget before the month closes"
+    },
+    {
+      "label": "Total Savings",
+      "value": "$640.00",
+      "description": "Difference between your income baseline and total outgoings this month"
+    },
+    {
+      "label": "Largest Category",
+      "value": "Food & Dining",
+      "description": "Your highest-spend category at $524.00, representing 28% of total spend"
+    }
+  ],
+  "expense-entry": [
+    {
+      "label": "Amount",
+      "placeholder": "e.g. 42.50",
+      "help": "Enter the exact spend in USD"
+    },
+    {
+      "label": "Category",
+      "placeholder": "Select a category",
+      "help": "Choose from Food & Dining, Transport, Housing, Health, Entertainment, Shopping, Utilities, or Other"
+    },
+    {
+      "label": "Date",
+      "placeholder": "Today",
+      "help": "Defaults to today; tap to pick any past date"
+    },
+    {
+      "label": "Note",
+      "placeholder": "e.g. Lunch with client or Monthly gym fee",
+      "help": "Optional memo"
+    }
+  ],
+  "category-breakdown": [
+    {
+      "name": "Food & Dining",
+      "amount": "$524.00",
+      "percent": "28%",
+      "color": "#38bdf8"
+    },
+    {
+      "name": "Housing & Rent",
+      "amount": "$480.00",
+      "percent": "26%",
+      "color": "#22d3ee"
+    },
+    {
+      "name": "Transport",
+      "amount": "$210.00",
+      "percent": "11%",
+      "color": "#818cf8"
+    },
+    {
+      "name": "Health & Wellness",
+      "amount": "$185.50",
+      "percent": "10%",
+      "color": "#34d399"
+    },
+    {
+      "name": "Entertainment",
+      "amount": "$162.00",
+      "percent": "9%",
+      "color": "#f472b6"
+    },
+    {
+      "name": "Shopping",
+      "amount": "$148.00",
+      "percent": "8%",
+      "color": "#fb923c"
+    },
+    {
+      "name": "Utilities",
+      "amount": "$98.00",
+      "percent": "5%",
+      "color": "#facc15"
+    },
+    {
+      "name": "Other",
+      "amount": "$40.00",
+      "percent": "2%",
+      "color": "#94a3b8"
+    }
+  ],
+  "recent-transactions": [
+    {
+      "merchant": "Whole Foods Market",
+      "category": "Food & Dining",
+      "amount": "$67.40",
+      "date": "Today, Jul 14",
+      "note": "Weekly grocery run"
+    },
+    {
+      "merchant": "Uber",
+      "category": "Transport",
+      "amount": "$14.20",
+      "date": "Today, Jul 14",
+      "note": "Ride to downtown office"
+    },
+    {
+      "merchant": "Netflix",
+      "category": "Entertainment",
+      "amount": "$15.99",
+      "date": "Jul 13",
+      "note": "Monthly subscription"
+    },
+    {
+      "merchant": "CVS Pharmacy",
+      "category": "Health & Wellness",
+      "amount": "$28.75",
+      "date": "Jul 13",
+      "note": "Cold medicine and vitamins"
+    },
+    {
+      "merchant": "Con Edison",
+      "category": "Utilities",
+      "amount": "$98.00",
+      "date": "Jul 12",
+      "note": "Monthly electricity bill"
+    },
+    {
+      "merchant": "Zara",
+      "category": "Shopping",
+      "amount": "$89.00",
+      "date": "Jul 11",
+      "note": "Summer jacket"
+    },
+    {
+      "merchant": "Chipotle",
+      "category": "Food & Dining",
+      "amount": "$13.85",
+      "date": "Jul 11",
+      "note": "Lunch"
+    },
+    {
+      "merchant": "Spotify",
+      "category": "Entertainment",
+      "amount": "$10.99",
+      "date": "Jul 10",
+      "note": "Monthly subscription"
+    }
+  ],
+  "header": [
+    {
+      "feature": "All transactions stored locally — your data never leaves your device"
+    },
+    {
+      "feature": "Inline edit and one-click delete for fast corrections"
+    },
+    {
+      "feature": "Export-ready layout for monthly reviews"
+    }
+  ],
+  "filters": [
+    {
+      "label": "Search by note or merchant",
+      "example": "e.g. Uber, Whole Foods, Netflix"
+    },
+    {
+      "label": "Filter by category",
+      "example": "Food & Dining, Transport, Housing, Health, Entertainment, Shopping, Utilities, Savings"
+    },
+    {
+      "label": "Date range presets",
+      "example": "Today, This Week, This Month, Last 30 Days, Custom Range"
+    },
+    {
+      "label": "Amount range filter",
+      "example": "Set a minimum and maximum to isolate large or small charges"
+    },
+    {
+      "label": "Sort options",
+      "example": "Sort by Date (newest first), Amount (high to low), or Category (A-Z)"
+    },
+    {
+      "label": "Active filters",
+      "example": "Shown as removable chips — clear all with one click"
+    }
+  ],
+  "transactions-list": [
+    {
+      "merchant": "Whole Foods Market",
+      "category": "Food & Dining",
+      "amount": "$84.32",
+      "date": "Jun 14, 2025",
+      "note": "Weekly grocery run"
+    },
+    {
+      "merchant": "Uber",
+      "category": "Transport",
+      "amount": "$12.50",
+      "date": "Jun 13, 2025",
+      "note": "Commute to downtown office"
+    },
+    {
+      "merchant": "Netflix",
+      "category": "Entertainment",
+      "amount": "$15.99",
+      "date": "Jun 12, 2025",
+      "note": "Monthly streaming subscription"
+    },
+    {
+      "merchant": "CVS Pharmacy",
+      "category": "Health & Wellness",
+      "amount": "$27.40",
+      "date": "Jun 11, 2025",
+      "note": "Vitamins and cold medicine"
+    },
+    {
+      "merchant": "Con Edison",
+      "category": "Utilities",
+      "amount": "$94.00",
+      "date": "Jun 10, 2025",
+      "note": "Monthly electricity bill"
+    },
+    {
+      "merchant": "Chipotle",
+      "category": "Food & Dining",
+      "amount": "$13.75",
+      "date": "Jun 10, 2025",
+      "note": "Lunch with coworker"
+    },
+    {
+      "merchant": "Amazon",
+      "category": "Shopping",
+      "amount": "$46.99",
+      "date": "Jun 9, 2025",
+      "note": "USB-C hub and cable"
+    },
+    {
+      "merchant": "Planet Fitness",
+      "category": "Health & Wellness",
+      "amount": "$24.99",
+      "date": "Jun 8, 2025",
+      "note": "Monthly gym membership"
+    },
+    {
+      "merchant": "Spotify",
+      "category": "Entertainment",
+      "amount": "$10.99",
+      "date": "Jun 7, 2025",
+      "note": "Premium music plan"
+    },
+    {
+      "merchant": "Metro Card",
+      "category": "Transport",
+      "amount": "$33.00",
+      "date": "Jun 6, 2025",
+      "note": "Monthly transit refill"
+    },
+    {
+      "merchant": "Rent",
+      "category": "Housing & Rent",
+      "amount": "$1,450.00",
+      "date": "Jun 1, 2025",
+      "note": "June rent payment"
+    },
+    {
+      "merchant": "Savings Transfer",
+      "category": "Savings",
+      "amount": "$200.00",
+      "date": "Jun 1, 2025",
+      "note": "Monthly savings goal deposit"
+    }
+  ],
+  "pagination": [
+    {
+      "label": "Rows per page selector",
+      "detail": "10, 25, 50, or All"
+    },
+    {
+      "label": "Previous and Next page controls",
+      "detail": "With current page indicator"
+    },
+    {
+      "label": "Jump-to-page input",
+      "detail": "For quickly reaching a specific page"
+    },
+    {
+      "label": "Transaction count",
+      "detail": "Total transaction count and filtered result count displayed at all times"
+    }
+  ],
+  "budget-summary": [
+    {
+      "label": "Total Monthly Budget",
+      "value": "$3,000.00",
+      "detail": "Across all categories"
+    },
+    {
+      "label": "Total Spent This Month",
+      "value": "$1,847.50",
+      "detail": "61.6% of budget used"
+    },
+    {
+      "label": "Remaining Balance",
+      "value": "$1,152.50",
+      "detail": "Available before month end"
+    },
+    {
+      "label": "Categories Over Budget",
+      "value": "1",
+      "detail": "Entertainment has exceeded its limit"
+    },
+    {
+      "label": "Categories Near Limit",
+      "value": "2",
+      "detail": "Food and Transport are above 80% utilization"
+    },
+    {
+      "label": "Days Left in Month",
+      "value": "11",
+      "detail": "Days remaining to stay within budget"
+    }
+  ],
+  "category-budgets": [
+    {
+      "emoji": "🍔",
+      "name": "Food & Dining",
+      "spent": 520,
+      "limit": 600,
+      "percent": 86.7,
+      "status": "Near limit"
+    },
+    {
+      "emoji": "🏠",
+      "name": "Housing & Rent",
+      "spent": 1200,
+      "limit": 1200,
+      "percent": 100,
+      "status": "At limit"
+    },
+    {
+      "emoji": "🚌",
+      "name": "Transport",
+      "spent": 168,
+      "limit": 200,
+      "percent": 84,
+      "status": "Near limit"
+    },
+    {
+      "emoji": "🎬",
+      "name": "Entertainment",
+      "spent": 145,
+      "limit": 120,
+      "percent": 120.8,
+      "status": "Over budget"
+    },
+    {
+      "emoji": "💊",
+      "name": "Health & Wellness",
+      "spent": 89.5,
+      "limit": 150,
+      "percent": 59.7,
+      "status": "On track"
+    },
+    {
+      "emoji": "🛍️",
+      "name": "Shopping",
+      "spent": 95,
+      "limit": 250,
+      "percent": 38,
+      "status": "On track"
+    },
+    {
+      "emoji": "📚",
+      "name": "Education",
+      "spent": 30,
+      "limit": 100,
+      "percent": 30,
+      "status": "On track"
+    },
+    {
+      "emoji": "☕",
+      "name": "Subscriptions",
+      "spent": 47.5,
+      "limit": 80,
+      "percent": 59.4,
+      "status": "On track"
+    }
+  ],
+  "budget-form": [
+    {
+      "label": "Category",
+      "placeholder": "Select from: Food & Dining, Rent & Housing, Transport, Entertainment, Health & Wellness, Shopping, Education, Subscriptions"
+    },
+    {
+      "label": "Monthly Limit",
+      "placeholder": "Enter amount in USD (e.g. 500)"
+    },
+    {
+      "label": "Alert Threshold",
+      "placeholder": "Notify me when I reach (default: 80% of limit)"
+    },
+    {
+      "label": "Note (optional)",
+      "placeholder": "e.g. Includes groceries and takeout only"
+    },
+    {
+      "label": "Rollover Unused Budget",
+      "placeholder": "Toggle: carry unspent amount to next month"
+    }
+  ],
+  "date-range-filter": [
+    {
+      "label": "Today",
+      "description": "View all transactions logged for the current day"
+    },
+    {
+      "label": "This Week",
+      "description": "Monday through today, updated in real time"
+    },
+    {
+      "label": "This Month",
+      "description": "Full calendar month with day-by-day granularity"
+    },
+    {
+      "label": "Last Month",
+      "description": "Complete prior month for period-over-period comparison"
+    },
+    {
+      "label": "Last 3 Months",
+      "description": "Rolling 90-day window to spot medium-term trends"
+    },
+    {
+      "label": "Custom Range",
+      "description": "Pick any start and end date from the calendar picker"
+    }
+  ],
+  "spending-trend": [
+    {
+      "month": "January",
+      "amount": 2140,
+      "note": "Total spend across 6 categories"
+    },
+    {
+      "month": "February",
+      "amount": 1875,
+      "note": "12% below monthly budget"
+    },
+    {
+      "month": "March",
+      "amount": 2490,
+      "note": "Driven by a spike in Healthcare"
+    },
+    {
+      "month": "April",
+      "amount": 2210,
+      "note": "Food & Dining up 18% vs. prior month"
+    },
+    {
+      "month": "May",
+      "amount": 1960,
+      "note": "Lowest in the quarter"
+    },
+    {
+      "month": "June",
+      "amount": 2680,
+      "note": "Travel category active for the first time"
+    },
+    {
+      "month": "July (partial)",
+      "amount": 1847,
+      "note": "Current month in progress"
+    },
+    {
+      "month": "Budget ceiling",
+      "amount": 3000,
+      "note": "Your $3,000 monthly limit"
+    }
+  ],
+  "insights": [
+    {
+      "icon": "⚠️",
+      "title": "Food & Dining overspend",
+      "description": "You've spent $620 on Food this month, which is 24% over your $500 budget. Consider meal-prepping to cut costs next week.",
+      "severity": "warning"
+    },
+    {
+      "icon": "✅",
+      "title": "Transport on track",
+      "description": "At $310 you're 7% under your $335 Transport budget. You're on pace to finish the month with room to spare.",
+      "severity": "success"
+    },
+    {
+      "icon": "📈",
+      "title": "Spending up 14% vs. last month",
+      "description": "Your total of $2,210 is higher than last month's $1,940. The increase is largely driven by Food and Entertainment.",
+      "severity": "info"
+    },
+    {
+      "icon": "💡",
+      "title": "Best savings day",
+      "description": "Sundays are your lowest-spend day on average ($18/day). You save 62% more on Sundays than on Fridays.",
+      "severity": "info"
+    },
+    {
+      "icon": "🔴",
+      "title": "Entertainment budget nearly exhausted",
+      "description": "$240 spent of your $250 limit with 9 days left in the month. You have only $10 remaining in this category.",
+      "severity": "danger"
+    },
+    {
+      "icon": "💰",
+      "title": "Savings opportunity",
+      "description": "Switching your daily coffee spend ($4.50/day) to home-brewed could save approximately $135 over the next 30 days.",
+      "severity": "success"
+    },
+    {
+      "icon": "📊",
+      "title": "Top merchant this month",
+      "description": "Whole Foods Market accounts for $198 of your Food & Dining total — 32% of the entire category.",
+      "severity": "info"
+    },
+    {
+      "icon": "🎯",
+      "title": "On track for monthly goal",
+      "description": "If current trends hold, you'll finish the month at $2,650 — $350 under your $3,000 budget and on pace to hit your savings target.",
+      "severity": "success"
+    }
+  ]
+}
